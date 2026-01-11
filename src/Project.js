@@ -14,10 +14,7 @@ const Projects = () => {
         textAlign: "center",
       }}
     >
-      <h1 style={{ fontSize: "2.5rem", marginBottom: "30px", color: "#1e3a8a" }}>
-        My Projects
-      </h1>
-
+       
       <div
         style={{
           backgroundColor: "#fff",
@@ -28,9 +25,9 @@ const Projects = () => {
           width: "100%",
         }}
       >
-        <h2 style={{ color: "#dc2626", marginBottom: "10px" }}>Project 1: Weather App</h2>
+        <h2 style={{ color: "#dc2626", marginBottom: "10px" }}>Password Manager App App</h2>
         <p style={{ marginBottom: "15px" }}>
-          A responsive app that shows the weather forecast for any city with live updates.
+        Built a full-stack password manager using React, Express, and MongoDB  Implemented REST APIs and CRUD operations for credential management  Designed a responsive frontend with React and Vite 
         </p>
         <div style={{ display: "flex", justifyContent: "center", gap: "10px" }}>
           <a
